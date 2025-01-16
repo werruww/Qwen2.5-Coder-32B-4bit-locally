@@ -2,6 +2,42 @@
 run Qwen2.5-Coder-32B-Instruct-GPTQ-Int4 locally with 16gb vram
 
 
+ْْْْْْْْْْْْْْ%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+Copy the file run_qwen23b_4bit.py
+to the folder containing all the model files
+and don't forget to change the path of the model folder inside the Python file
+
+
+
+Or in the terminal, type Python and copy the contents of the Python file, modifying the path of the model’s folder and all its files.
+
+
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ########################
 cuda_11.8.0_522.06_windows
 
